@@ -1,0 +1,30 @@
+#login-home-section {
+    background: url(../img/train1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 880px;
+    padding-top: 150px;
+
+}
+#home-section {
+    background: url(../img/train2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 880px;
+}
+
+#home-section .home-inner{
+    padding-top: 100px;
+}
+
+#login-home-section #home-text {
+    background: #000;
+    opacity: 0.8;
+    border-radius: 5px;
+}
+
+#home-cards .card {
+    opacity: 0.85;
+}
