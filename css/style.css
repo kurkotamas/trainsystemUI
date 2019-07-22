@@ -16,7 +16,7 @@
 }
 
 #home-section .home-inner{
-    padding-top: 100px;
+    padding-top: 80px;
 }
 
 #login-home-section #home-text {
@@ -27,4 +27,8 @@
 
 #home-cards .card {
     opacity: 0.85;
+}
+
+#home-picture{
+    opacity: 0.95;
 }
